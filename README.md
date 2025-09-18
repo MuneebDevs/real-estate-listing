@@ -2,6 +2,8 @@
 
 A small React + TypeScript app to explore real estate listings: search, filter, sort, dive into details, view price history, and explore locations on an interactive map.
 
+### [Check the live app here](https://real-estate-listing-inky.vercel.app/)
+
 ### Tech
 - React + TypeScript (Vite)
 - React Router
